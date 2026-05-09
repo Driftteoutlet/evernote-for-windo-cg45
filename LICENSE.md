@@ -1,4 +1,4 @@
-
+smart Plugin for Evernote for Windows - collaboration and templates is the best Evernote for Windows plugin, featuring collaboration and templates. Powerful, efficient, and
 
 
 
